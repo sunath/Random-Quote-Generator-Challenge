@@ -1,0 +1,10 @@
+.main {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.card {
+  padding: 3em;
+  max-width: 70%;
+}
